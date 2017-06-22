@@ -1,0 +1,10 @@
+
+body{
+	background-color:white;
+}
+
+div#home-image{
+	background-image: url('../images/bs.png');
+	width:64px;
+	height:64px;
+}
